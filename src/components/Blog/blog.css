@@ -1,0 +1,61 @@
+nav{
+    background-color: olive;
+    height: 40px;
+    display: flex;
+    justify-content: space-around
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 20px;
+    font-family:sans-serif;
+    padding:10px;
+}
+li{
+    padding-left: 65px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin:15px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+footer{
+    background-color: olivedrab;
+    height:120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home{
+    padding:20px;
+    min-height: 400px;
+}
+.about{
+    padding:20px;
+    min-height: 400px;
+}
+.newpost{
+    padding:20px;
+    min-height: 400px;
+}
+label{
+    margin-top:40px
+}
+/* input{
+    margin:20px;
+    padding:20px;
+} */
+textarea{
+    margin:20px;
+    padding:50px
+}
+/* .search{
+    margin-top:-20px;
+} */
+
